@@ -13,10 +13,6 @@ This project is a static clone of the popular social media platform Instagram. I
 - **CSS3**: For styling and layout, including Flexbox .
 - **Frameworks/Libraries**: [Optional: Bootstrap, Tailwind CSS]
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/instagram-clone-html-css.git
 
 ## Project structure
 │
